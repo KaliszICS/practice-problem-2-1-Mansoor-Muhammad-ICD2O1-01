@@ -12,7 +12,7 @@ def q1():
 
 def q2(): 
   name = input("In: ")
-  if name == "Kalisz":
+  if name =="Kalisz":
     print("teacher")
   if name != "Kalisz":
     print("student")     
